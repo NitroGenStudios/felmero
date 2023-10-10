@@ -1,0 +1,80 @@
+body
+{
+	color: gray;
+	font-family: 'Montserrat', sans-serif;
+	font-size: large;
+}
+
+.container
+{
+	max-width: 800px;
+	margin: 0 auto;
+}
+
+.logo
+{
+	background: lightgreen;
+	box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.268);
+	padding: 5px;
+	margin: 5px;
+}
+
+.logoImg
+{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+h1
+{
+	color: black;
+}
+
+h3
+{
+	color: black;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+.logo h3
+{
+	text-align: center;
+	padding-top: 10px;
+	padding-bottom: 30px;
+}
+
+.max-w
+{
+	margin: 3px;
+	width: 100%;
+}
+
+.hirlevel
+{
+	border-radius: 5px;
+	border: 3px solid lightgray;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	padding: 10px;
+}
+
+button
+{
+	background: none;
+	border-radius: 5px;
+	border: none;
+}
+
+.subscribe
+{
+	background: lightgreen;
+}
+
+.x
+{
+	float: right;
+}
